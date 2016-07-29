@@ -1,0 +1,22 @@
+.Titulo{
+		font-family: 'Montserrat', sans-serif;
+		padding-bottom: 25px;
+		padding-top: 25px;
+		color: grey;
+}
+.Imagenes{
+		width: 120px;
+		height: 125px;
+}
+#Introduccion{
+		font-family: sans-serif;
+}
+.Imagenes1{
+		width: 120px;
+		height: 100px;
+		border-radius: 50px;
+		margin-top: 30px;
+}
+.Introduccion1{
+		margin-top: 30px;
+}
